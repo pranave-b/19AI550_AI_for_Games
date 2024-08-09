@@ -1,6 +1,7 @@
 # Ex.No: 1  Implementation of HotPotato game using Queue 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 09-08-2024                                                                       
+### REGISTER NUMBER : 212221240040
+### NAME: PRANAVE B
 ### AIM: 
 To write a python program to simulate the process of passing an item among players and eliminating players based on the given rules until a single winner is determined.
 ### Algorithm:
