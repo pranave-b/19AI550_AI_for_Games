@@ -1,5 +1,6 @@
 # Ex.No: 2 Implementation of Stack Plate game using Queue 
-### DATE: 24-08-2024                                                                       
+### DATE: 24-08-2024              
+### NAME: Pranave B
 ### REGISTER NUMBER : 212221240040
 ### AIM: 
 To write a python program to simulate the process of stacking plates.
