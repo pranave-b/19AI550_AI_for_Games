@@ -78,4 +78,4 @@ pygame.quit()
 
 
 ### Result:
-Thus the simple jumping behavior  was implemented.
+Thus the simple jumping behavior was implemented.
